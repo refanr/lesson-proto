@@ -1,0 +1,24 @@
+{
+  "lessons": [
+    {
+      "title": "Introductory lesson no. 1",
+      "age": "younger",
+      "body": "Did you ever wonder how your favorite cartoon characters move around and talk on your TV screen? Or how those fun video games you play come to life? Computers are like the artists and magicians behind all of this! They help create the magic in movies and games, turning pictures and ideas into exciting adventures. Computers are like our special tools to make the world more colorful, fun, and amazing."
+    },
+    {
+      "title": "Introductory lesson no. 2",
+      "age": "younger",
+      "body": "Computers are like our trusty but very literal robot sidekicks. They can't guess what we want, so we have to be really clear when we talk to them. Just like telling your robot buddy exactly what buttons to press, we tell computers exactly what to do. They are kind of like awesome chefs, they follow our instructions like recipes, so it's our job to be great at giving them the right instructions to create amazing things!"
+    },
+    {
+      "title": "Introductory lesson no. 1",
+      "age": "older",
+      "body": "Have you ever wondered how your favorite video games come to life, or how those amazing animated movies magically appear on your screen? It's all thanks to computers! Computers are like powerful tools that let us create fantastic worlds and bring incredible stories to life. But they're not just for fun and games. They're also like a bridge to connect with people all over the world, sharing ideas and experiences. Computers are like the keys to a treasure chest filled with endless adventures and knowledge."
+    },
+    {
+      "title": "Introductory lesson no. 2",
+      "age": "older",
+      "body": "Think of computers as your digital partners in crime-solving. They are like Sherlock Holmes, super smart but quite literal. They can only work with what we give them. Imagine you're explaining a detective case; you need to provide every detail. Computers are similar; we have to be precise in our instructions. They're like our digital detectives, solving mysteries, but only if we describe the case thoroughly!"
+    }
+  ]
+}
